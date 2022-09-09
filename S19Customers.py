@@ -4,7 +4,7 @@ import mysql.connector as db
 class DataBaseHelper:
 
     def __init__(self, database='gw2022pd1'):
-        self.connection = db.connect(user='root', password='Binaypal@1510',
+        self.connection = db.connect(user='root', password='------',
                                      host='127.0.0.1',
                                      database=database)
         print("1. DB CONNECTED :)")

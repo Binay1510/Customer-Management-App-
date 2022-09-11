@@ -27,5 +27,7 @@ Created Customer Management App in Python Using Flask and  NoSql Database -> Mon
 #View Customer
 ![cms4](https://user-images.githubusercontent.com/81138092/189520262-a58561fc-95ac-45be-8f3b-a41412332e71.png)
 #Delete Customer
-
+![cms5](https://user-images.githubusercontent.com/81138092/189520400-93701a6f-ecc6-4c15-8709-7c8ff059f4d3.png)
 #Update Customer
+
+![cms6](https://user-images.githubusercontent.com/81138092/189520401-0c66466b-7c9f-4247-a9f6-cd14b43b6b88.png)

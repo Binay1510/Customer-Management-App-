@@ -1,6 +1,8 @@
 # Customer-Management-App-
 Created Customer Management App in Python Using Flask and  NoSql Database -> MongoDb with basic CRUD operations 
 
+pip insatll Flask 
+
 1. Create a Class in Python using OOPS
     Customer
         id, name, phone, email, createdOn, remarks, points, type
